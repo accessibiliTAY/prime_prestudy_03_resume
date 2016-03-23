@@ -1,0 +1,96 @@
+h1 h3 h4 p li section{
+	margin: 20px 0;
+}
+header {
+    color:#ffffff ;
+    font-family: verdana, arial, sans-serif;
+    font-weight: bold;
+    font-size: 300%;
+    text-shadow: 2px 1px 1px #000000;
+    background-color:#da877b;
+    text-align: center;
+    padding-bottom: 3px;
+
+}
+h1 {
+	color:#5f5f5f;
+	font-family: verdana, arial, sans-serif;
+	text-shadow: 1px 2px 2px #ffffff;
+	padding-left: 5px;
+
+}
+h2 {
+	color:#fff;
+	font-family: verdana, arial, sans-serif;
+	font-size: 17px;
+	border-bottom: 10px;
+}
+h3{
+	color:#5f5f5f;
+	font-family: verdana, arial, sans-serif;
+	padding-left: 55px;
+}
+h4{
+	color:#5f5f5f;
+	font-family: verdana, arial, sans-serif;
+	padding-left: 5px;
+}
+p  {
+    color:#5f5f5f;
+    font-family: verdana, arial, sans-serif;
+    text-align: left;
+    line-height: 26px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+body{
+	background-color: #e4e4e4;
+}
+a {
+	font-family: verdana, arial, sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #5f5f5f;
+	text-shadow: none;
+	padding-top: 10px
+}
+a:hover {
+	color: #fff;
+}
+li {
+	font-family: verdana, arial, sans-serif;
+	font-size: 15px;
+	color: #5f5f5f;
+	padding-left: 0px;
+	margin-left: 55px;
+	padding-right: 55px;
+
+}
+
+.arrowarrow  {
+	background:url(picture.png);
+	display: block;
+ height:110px;
+ width:20px;
+ overflow:hidden;
+ margin: 0 auto;
+}
+.arrowarrow img{
+	height: 90px;
+	width: auto;
+
+}
+
+.arrowarrow:hover, .arrowarrow:focus {
+	background-position: -90px 0;
+
+}
+section{
+ display: none;
+}
+button{
+ background-color: #da877b;
+height: 150px;
+width: 150px;
+font-size: 50px;
+}
