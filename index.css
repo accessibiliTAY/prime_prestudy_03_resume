@@ -89,8 +89,13 @@ section{
  display: none;
 }
 button{
- background-color: #da877b;
-height: 150px;
+ background-color: #47af8c;
+
+height: 100px;
 width: 150px;
-font-size: 50px;
+font-size: 30px;
+
+}
+div {
+	text-align: center;
 }
